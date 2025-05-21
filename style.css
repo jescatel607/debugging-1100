@@ -1,18 +1,18 @@
 p {
-  font-size: largeer; /* Console warning: Invalid property value */
+  font-size: larger; /* Console warning: Invalid property value */
 }
 
 h1 {
-  fontsize: 23xp;
+  font-size: 23xp;
   color: purple;
 }
 
-.contianer {
-  colro: red;
+.container {
+  color: red;
   width: 500px;
   height: 500px;
   /* background should be the same as #output */
-  background-color: #f3SupeCoolColor;
+  background-color: #06df7a;
 }
 
 #output {
@@ -21,7 +21,16 @@ h1 {
   font-weight: bold;
   text-align: center;
   margin-top: 20px;
-  pudding: 10px;
+  padding: 10px;
   border: 1px solid #000;
   background-color: #f0f0f0;
 }
+
+/* 1. #f3SupeCoolColor > change to #06df7a
+   2. fontsize > change to font-size.
+   3. colro > change to color.
+   4.pudding > change to padding.
+   5.largeer > change to larger
+   6.Container  was mispelled.
+   I looked at the terminal, checked the 'Problems' section, and went down the line of issues listed.
+    */
